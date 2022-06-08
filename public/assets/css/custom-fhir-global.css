@@ -1,0 +1,15 @@
+#auth-card {
+  width: 60%;
+}
+#patient-card {
+  width: 80%;
+}
+.full-height {
+  min-height: 100vh;
+}
+.half-height {
+  min-height: 70vh;
+}
+.qtr-height {
+  min-height: 30vh;
+}
