@@ -1,6 +1,6 @@
 # FHIR Client
 
-Powered by Vue.js and Bootstrap 5 (offline)
+Interoperable Healthcare Information System Powered by Vue.js and Bootstrap 5 (offline)
 
 ## Steps
 
